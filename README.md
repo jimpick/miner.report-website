@@ -1,6 +1,6 @@
-# miner.report-website
+# provider.quest-website
 
-The code for the website at https://miner.report/
+The code for the website at https://provider.quest/
 
 Minimal site published to IPFS via Fleek, redirects to ObservableHQ
 
